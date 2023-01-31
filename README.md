@@ -17,8 +17,7 @@ The generative AI model was trained on a diverse dataset of real-life fart recor
 * Clone the repository
 * Install required packages listed in requirements.txt
 * Run the following command to generate a fart sound: python generate.py "<prompt>"
-* Suggested Prompts
-* Here are some suggestions for prompts you can use:
+* Here are some suggestions for prompts I've had good results with:
   * "Beans bubbling in the intestines, releasing a thunderous fart"
   * "A silent but potent wave of gas quietly escapes"
   * "Carbonated soda fizzing and forcing its way out"
@@ -27,3 +26,10 @@ The generative AI model was trained on a diverse dataset of real-life fart recor
   * "A long-pent up fart finally erupts with a satisfying boom"
   * "A rapid-fire series of toots, like a barrage of mini explosions"
   * "A powerful rumble from the belly, unleashing a symphony of flatulence"
+
+
+## Suggested Uses
+
+- Improvising your own fart symphony
+- Pranking friends and family
+- Adding fart sound effects to your videos or podcasts
